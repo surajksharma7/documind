@@ -149,9 +149,3 @@ MIT License © [Suraj Kumar Sharma](https://github.com/surajksharma7)
 For support, feedback, or contributions:
 **Email:** [surajksharma2304@gmail.com](mailto:surajksharma2304@gmail.com)
 **GitHub:** [github.com/surajksharma7](https://github.com/surajksharma7)
-
----
-
-If you want, I can **also make this README “visually premium”** with **badges, color highlights, and a neat project showcase style** that looks professional for GitHub.
-
-Do you want me to do that?
